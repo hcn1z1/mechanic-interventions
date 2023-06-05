@@ -1,0 +1,21 @@
+this file is dedicated as a query list for each component
+
+for Employe list{
+	interv>INT // search for employes that has interventions more than INT
+	INT // search for employe by ID
+	String // search for employe by name or last name
+}
+
+for cars list{
+	cars>INT // search for cars that has interventions count is more than INT
+	String // search for cars by Model or Marque
+}
+
+for Interventions list{
+	car:INT //search for interventions by car ID
+	dd:INT // search for interventions by DAY
+	mm:INT // search for interventions by month
+	yy:INT // search for interventions by year
+	interv:INT // search for interventions by interventions id
+	String: // search for interventions by Employe last name 
+}
