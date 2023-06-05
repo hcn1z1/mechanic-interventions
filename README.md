@@ -2,10 +2,8 @@
 this project have been made my students of ACAD B USTHB
 
 Name: Mohamed Amine Hammane;
-Matricule: 212132070210
 
 Name: Yasmine Meroua Brikchaouche;
-Matricule: 192131067022
 
 ## Requirement: 
 - OJDBC 8.0 
